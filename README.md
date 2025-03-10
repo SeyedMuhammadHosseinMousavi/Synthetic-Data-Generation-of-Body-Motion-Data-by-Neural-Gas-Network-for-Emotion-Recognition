@@ -24,6 +24,8 @@ We compared our generated dataset against others using benchmark metrics like Fr
 ### In order to get the results in the paper, you need to download the entire dataset from the below link:
 - https://www.ianxmason.com/100style/
 
+![image](https://github.com/user-attachments/assets/19b0698f-ce4d-4462-ac99-6f94bdb0b90b)
+
 
 ## Conclusion
 The NGN algorithm not only fills gaps in existing datasets but also supports the development of more ethical AI systems by reducing reliance on personal data, thus promising significant advancements in emotion recognition technologies.
