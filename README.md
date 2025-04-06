@@ -1,6 +1,6 @@
 # Synthetic-Data-Generation-of-Body-Motion-Data-by-Neural-Gas-Network-for-Emotion-Recognition
 
-## Abstract
+## Abstract - Importance
 This research addresses the challenges in emotion recognition using body motion data, primarily the scarcity of diverse and generalizable datasets. Employing Synthetic Data Generation (SDG) methods like GANs and VAEs shows promise but comes with complexity. We introduce a novel application of the Neural Gas Network (NGN) algorithm for synthesizing body motion data, optimizing diversity and generation speed. By learning skeletal structure topology, NGN fits neurons or gas particles on body joints to synthesize new body postures over frames, enhancing dataset quality for emotion recognition.
 
 ## Keywords
