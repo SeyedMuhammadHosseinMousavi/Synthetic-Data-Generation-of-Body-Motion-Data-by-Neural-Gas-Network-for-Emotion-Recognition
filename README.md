@@ -39,10 +39,12 @@ The NGN algorithm not only fills gaps in existing datasets but also supports the
 ![image](https://github.com/user-attachments/assets/5307b5c4-905a-4ca7-9caf-e52347e1454c)
 
 ### Please Cite:
-- Mousavi, Seyed Muhammad Hossein. "Synthetic Data Generation of Body Motion Data by Neural Gas Network for Emotion Recognition." arXiv preprint arXiv:2503.14513 (2025).
+- Mousavi, Seyed Muhammad Hossein. "Synthetic Data Generation of Body Motion Data by Neural Gas Network for Emotion Recognition." arXiv preprint arXiv:2503.14513 (2025).\
+- Seyed Muhammad Hossein Mousavi. (2025). Synthetic Data Generation of Body Motion Data by Neural Gas Network for Emotion Recognition. Qeios. doi:10.32388/H3YWEX.
 ### Link to the Paper:
 - https://arxiv.org/abs/2503.14513
 - https://zenodo.org/records/15056133
+- https://www.qeios.com/read/H3YWEX
 
 ## Author
 S. Muhammad Hossein Mousavi  
