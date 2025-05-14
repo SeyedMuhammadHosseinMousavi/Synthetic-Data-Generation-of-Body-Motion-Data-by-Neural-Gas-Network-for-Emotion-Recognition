@@ -44,7 +44,7 @@ The NGN algorithm not only fills gaps in existing datasets but also supports the
 ### Link to the Paper:
 - https://arxiv.org/abs/2503.14513
 - https://zenodo.org/records/15056133
-- https://www.qeios.com/read/H3YWEX
+- https://www.qeios.com/read/H3YWEX.2
 
 ## Author
 S. Muhammad Hossein Mousavi  
